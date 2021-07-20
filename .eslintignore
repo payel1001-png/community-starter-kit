@@ -1,0 +1,6 @@
+dist/**
+node_modules/**
+**/bundle.js
+we pack.config.js
+we pack.config.dev.js
+server.js
